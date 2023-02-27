@@ -1,0 +1,15 @@
+/Users/jdiazm/Downloads/leecsv/bin/Debug/net7.0/leecsv
+/Users/jdiazm/Downloads/leecsv/bin/Debug/net7.0/leecsv.deps.json
+/Users/jdiazm/Downloads/leecsv/bin/Debug/net7.0/leecsv.runtimeconfig.json
+/Users/jdiazm/Downloads/leecsv/bin/Debug/net7.0/leecsv.dll
+/Users/jdiazm/Downloads/leecsv/bin/Debug/net7.0/leecsv.pdb
+/Users/jdiazm/Downloads/leecsv/obj/Debug/net7.0/leecsv.csproj.AssemblyReference.cache
+/Users/jdiazm/Downloads/leecsv/obj/Debug/net7.0/leecsv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jdiazm/Downloads/leecsv/obj/Debug/net7.0/leecsv.AssemblyInfoInputs.cache
+/Users/jdiazm/Downloads/leecsv/obj/Debug/net7.0/leecsv.AssemblyInfo.cs
+/Users/jdiazm/Downloads/leecsv/obj/Debug/net7.0/leecsv.csproj.CoreCompileInputs.cache
+/Users/jdiazm/Downloads/leecsv/obj/Debug/net7.0/leecsv.dll
+/Users/jdiazm/Downloads/leecsv/obj/Debug/net7.0/refint/leecsv.dll
+/Users/jdiazm/Downloads/leecsv/obj/Debug/net7.0/leecsv.pdb
+/Users/jdiazm/Downloads/leecsv/obj/Debug/net7.0/leecsv.genruntimeconfig.cache
+/Users/jdiazm/Downloads/leecsv/obj/Debug/net7.0/ref/leecsv.dll
